@@ -1,0 +1,22 @@
+{
+  "productes": [
+    {
+      "Nom": "E-Bike X",
+      "Tipus": "Bicicleta",
+      "Autonomia": 120,
+      "Preu": 1299
+    },
+    {
+      "Nom": "City-Scoot",
+      "Tipus": "Patinet",
+      "Autonomia": 45,
+      "Preu": 549
+    },
+    {
+      "Nom": "Eco-Car Z",
+      "Tipus": "Cotxe",
+      "Autonomia": 410,
+      "Preu": 31990
+    }
+  ]
+}

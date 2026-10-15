@@ -1,0 +1,50 @@
+{
+  "enquestes": [
+    {
+      "id": 1,
+      "titol": "Preferències de MotoGP",
+      "activa": true,
+      "preguntes": [
+        {
+          "ordre": 1,
+          "text": "Quin pilot de MotoGP t'agrada més?",
+          "tipus": "opcio_multiple",
+          "opcions": [
+            "Marc Márquez",
+            "Francesco Bagnaia",
+            "Fabio Quartararo",
+            "Jorge Martín"
+          ]
+        },
+        {
+          "ordre": 2,
+          "text": "Què és el que més t'agrada de les carreres de MotoGP?",
+          "tipus": "text_lliure"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titol": "Preferències de motocross",
+      "activa": true,
+      "preguntes": [
+        {
+          "ordre": 1,
+          "text": "Quin tipus de circuit de motocross prefereixes?",
+          "tipus": "opcio_multiple",
+          "opcions": [
+            "Circuit de terra",
+            "Circuit d’arena",
+            "Circuit amb salts grans",
+            "Circuit mixt"
+          ]
+        },
+        {
+          "ordre": 2,
+          "text": "Quina és la teva part preferida del motocross?",
+          "tipus": "text_lliure"
+        }
+      ]
+    }
+  ]
+}

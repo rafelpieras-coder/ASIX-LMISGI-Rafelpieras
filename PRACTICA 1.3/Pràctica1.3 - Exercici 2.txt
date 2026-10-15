@@ -1,0 +1,42 @@
+{
+  "estudiants": [
+    {
+      "ID": 201,
+      "Nom": "Anna",
+      "Cognom": "Serra",
+      "Email": "anna@example.com"
+    },
+    {
+      "ID": 202,
+      "Nom": "Biel",
+      "Cognom": "Amengual",
+      "Email": "biel@example.com"
+    },
+    {
+      "ID": 203,
+      "Nom": "Joan",
+      "Cognom": "García",
+      "Email": "joan@example.com"
+    }
+  ],
+  "matriculacions": [
+    {
+      "ID": 601,
+      "StudentID": 201,
+      "Modul": "M06",
+      "Nota": 8.5
+    },
+    {
+      "ID": 602,
+      "StudentID": 202,
+      "Modul": "M06",
+      "Nota": 9.2
+    },
+    {
+      "ID": 603,
+      "StudentID": 203,
+      "Modul": "M06",
+      "Nota": 7.9
+    }
+  ]
+}
