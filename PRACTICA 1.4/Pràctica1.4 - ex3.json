@@ -1,29 +1,37 @@
 {
-  "correu": {
-    "assumpte": "Notes de la presentació d'ahir",
-    "remitent": {
-      "nom": "Carles Canals",
-      "email": "ccg@paucasesnovescifp.cat"
-    },
-    "destinataris": [
-      "Per a mi"
-    ],
-    "copia": [
-      "alumnat@paucasesnovescifp.cat"
-    ],
-    "salut": "Bon dia!",
-    "cos": "Gràcies per la vostra assistència a la presentació d'ahir sobre els continguts de l'assignatura.",
-    "comiat": "Gràcies a tots i totes!",
-    “nom”: “Carles Canals”,
-    "signatura": {
-      "nom": "Carles Canals",
-      "carrec": "Professor del Departament d'Informàtica"
-    },
-    "adjunts": [
+  "modul": {
+    "nom": "Llenguatges de Marques i Sistemes de Gestió d'Informació",
+    "cicle": "ASIX",
+    "hores_setmanals": 4,
+    "caracter": "obligatori",
+    "data_inici": "2023-09-25",
+    "data_fi": "2024-06-30",
+    "alumnes": [
       {
-        "nom_fitxer": "notes-presentacio.pdf",
-        "tipus": "PDF",
-        "mida": "30 KB"
+        "nom": "Carles Canals Gozálvez",
+        "nif": "12345678A",
+        "telefon": "971000000",
+        "correu": "cgc@paucasesnovescifp.cat",
+        "adreca": {
+          "carrer": "C/ Sense Nom, 1",
+          "localitat": "Inca",
+          "codi_postal": "07300"
+        },
+        "faltes_assistencia": 10,
+        "nota": "no apte"
+      },
+      {
+        "nom": "Joana Quetglas Caimari",
+        "nif": "87654321Z",
+        "telefon": "971123456",
+        "correu": "qcj@paucasesnovescifp.cat",
+        "adreca": {
+          "carrer": "C/ Sense sortida, 3",
+          "localitat": "Sóller",
+          "codi_postal": "07100"
+        },
+        "faltes_assistencia": 0,
+        "nota": "apte"
       }
     ]
   }
